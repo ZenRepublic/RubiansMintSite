@@ -94,7 +94,7 @@ const Other = styled.div`
 const ImageWrap = styled.div`
   aspect-ratio: 1 / 1;
   width: 100%;
-  background-image: url(https://i.ibb.co/167hNyy/twtpfp-big-min.png);
+  background-image: url(https://i.ibb.co/vsh6BHR/Rubians-zen-sand.png);
   background-size:     cover;                     
   background-repeat:   no-repeat;
   background-position: center center; 
