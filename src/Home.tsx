@@ -595,7 +595,7 @@ const Home = (props: HomeProps) => {
             </Column>
             <Column>
               <Content>
-                <CollectionName>Solana 75</CollectionName>
+                <CollectionName>Rubians</CollectionName>
                 <InfoRow>
                 {guardStates.isStarted && wallet.publicKey && (
                   <InfoBox>
@@ -609,11 +609,11 @@ const Home = (props: HomeProps) => {
                   </InfoBox>
                 )}
                   <IconRow>
-                    <a href="https://twitter.com/solana75devs" target="_blank" rel="noopener noreferrer"><Twitter></Twitter></a>
-                    <a href="https://discord.gg/3rwm4zKuHM" target="_blank" rel="noopener noreferrer"><Discord></Discord></a>
+                    <a href="https://twitter.com/ZenRepublicNDM" target="_blank" rel="noopener noreferrer"><Twitter></Twitter></a>
+                    <a href="https://discord.gg/FHtdM78a3y" target="_blank" rel="noopener noreferrer"><Discord></Discord></a>
                   </IconRow>
                 </InfoRow>
-                <CollectionDescription>The legendary 75 developers who carry Solana ecosystem on their backs by innovating and pushing the tech to the limit.</CollectionDescription>
+                <CollectionDescription>Rubians are inhabitants of Ruby Planet, the smallest and hottest planet in Zen Republic. Having automated most of the labour, they strive to entertain the web3 ecosystem with innovative games and utilities!</CollectionDescription>
               </Content>
               <Other>
                 {!guardStates.isStarted ? (
